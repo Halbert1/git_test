@@ -2,3 +2,4 @@ hello git, this is my first repo.
 just for test
 add apple
 add orange
+add money
