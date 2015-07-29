@@ -1,3 +1,3 @@
 # git_test
 this if my first repo, just for test
-creating a new branch is quick.
+creating a new branch is quick by master.
